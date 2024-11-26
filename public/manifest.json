@@ -1,0 +1,27 @@
+{
+    "name": "SeatsApp",
+    "short_name": "SA",
+    "theme_color": "#35155D",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "natural",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+        "src": "icons/Image-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+        },
+        {
+        "src": "icons/Image-256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+        },
+        {
+        "src": "icons/Image-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+        }
+    ]
+}
